@@ -16,7 +16,6 @@ Ever wonder what products customers buy together, or what trends hide in your sa
 * [Configuration](#configuration)
 * [Your Data: The Input Format](#your-data-the-input-format)
 * [Interpreting the Results](#interpreting-the-results)
-* [Our Development Team](#our-development-team)
 
 ---
 
@@ -139,16 +138,3 @@ The script will print various outputs to your console:
         - **Lift > 1**: Indicates a **positive correlation**. The items in the antecedent and consequent are bought together _more often_ than expected by chance. This is what you're typically looking for!
         - **Lift < 1**: Indicates a **negative correlation**. The items are bought together _less often_ than expected.
         - **Lift = 1**: Indicates **no correlation**. The purchase of the antecedent has no impact on the purchase of the consequent.
-
----
-
-## Our Development Team
-
-| Name            | GitHub Profile                      |
-| :-------------- | :---------------------------------- |
-| [Member 1 Name] | [Link to Member 1's GitHub Profile] |
-| [Member 2 Name] | [Link to Member 2's GitHub Profile] |
-| [Member 3 Name] | [Link to Member 3's GitHub Profile] |
-| [Member 4 Name] | [Link to Member 4's GitHub Profile] |
-| [Member 5 Name] | [Link to Member 5's GitHub Profile] |
-| [Member 6 Name] | [Link to Member 6's GitHub Profile] |

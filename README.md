@@ -16,6 +16,7 @@ Ever wonder what products customers buy together, or what trends hide in your sa
 * [Configuration](#configuration)
 * [Your Data: The Input Format](#your-data-the-input-format)
 * [Interpreting the Results](#interpreting-the-results)
+* [Visualization For Tree](#visualization-for-tree)
 
 ---
 
@@ -138,3 +139,6 @@ The script will print various outputs to your console:
         - **Lift > 1**: Indicates a **positive correlation**. The items in the antecedent and consequent are bought together _more often_ than expected by chance. This is what you're typically looking for!
         - **Lift < 1**: Indicates a **negative correlation**. The items are bought together _less often_ than expected.
         - **Lift = 1**: Indicates **no correlation**. The purchase of the antecedent has no impact on the purchase of the consequent.
+---
+## Visualization For Tree
+<img width="432" alt="Screenshot_2025-06-01_at_9 23 28_AM" src="https://github.com/user-attachments/assets/0972f28d-265a-4b7c-a799-5a773254beae" />
